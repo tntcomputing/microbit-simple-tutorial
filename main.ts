@@ -1,1 +1,1 @@
-/ empty MakeCode entry file
+// required file for MakeCode project

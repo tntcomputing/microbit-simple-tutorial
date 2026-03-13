@@ -1,0 +1,10 @@
+{
+  "name": "simple-tutorial",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "preferredEditor": "blocksprj"
+}
