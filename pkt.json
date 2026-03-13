@@ -1,0 +1,6 @@
+{
+  "name": "simple-tutorial",
+  "dependencies": {
+    "core": "*"
+  }
+}
