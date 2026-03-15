@@ -8,10 +8,11 @@
     "microphone": "*"
   },
   "files": [
+    "README.md",
     "main.ts",
-    "tutorial.md",
-    "README.md"
+    "tutorial.md"
   ],
+  "testFiles": [],
   "preferredEditor": "tsprj",
   "supportedTargets": [
     "microbit"
