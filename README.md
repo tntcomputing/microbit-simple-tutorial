@@ -4,27 +4,25 @@ A minimal working MakeCode micro:bit tutorial test.
 
 ## Open Tutorial
 
-Open this tutorial in MakeCode:
+The easiest way to use this tutorial:
 
+1. Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+2. Click **Import**
+3. Paste: `https://github.com/tntcomputing/microbit-simple-tutorial`
+4. Once imported, click on **tutorial.md** in the Explorer panel to start the tutorial
+
+## Direct Tutorial URL
+
+Try this URL (may require GitHub Pages enabled):
 ```
-https://makecode.microbit.org/#tutorial:github:tntcomputing/microbit-simple-tutorial/tutorial
+https://makecode.microbit.org/#tutorial:https://raw.githubusercontent.com/tntcomputing/microbit-simple-tutorial/main/tutorial.md
 ```
 
-Or manually:
-* Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* Click **Import**
-* Paste: `https://github.com/tntcomputing/microbit-simple-tutorial`
-* Once imported, click on **tutorial.md** in the Explorer to start the tutorial
+## What Works
 
-## Use as Extension
+- ? Import via GitHub URL and click tutorial.md in Explorer
+- ?? Direct tutorial URLs are unreliable from GitHub
+- ? Best approach: Publish project in MakeCode to get a permanent share link
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tntcomputing/microbit-simple-tutorial** and import
-
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 
