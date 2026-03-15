@@ -10,8 +10,7 @@
   },
   "files": [
     "README.md",
-    "main.ts",
-    "tutorial.md"
+    "main.ts"
   ],
   "testFiles": [],
   "public": true,
