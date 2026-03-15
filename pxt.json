@@ -1,7 +1,8 @@
 {
-  "name": "simple-tutorial",
+  "name": "microbit-simple-tutorial",
   "version": "0.0.1",
   "description": "A simple micro:bit tutorial",
+  "license": "MIT",
   "dependencies": {
     "core": "*",
     "radio": "*",
@@ -13,6 +14,7 @@
     "tutorial.md"
   ],
   "testFiles": [],
+  "public": true,
   "preferredEditor": "tsprj",
   "supportedTargets": [
     "microbit"
