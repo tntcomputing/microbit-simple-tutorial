@@ -1,1 +1,4 @@
-// required file for MakeCode project
+basic.forever(function () {
+	
+})
+
