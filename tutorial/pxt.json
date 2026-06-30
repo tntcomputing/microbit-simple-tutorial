@@ -1,0 +1,26 @@
+{
+    "name": "microbit-simple-tutorial-tutorial",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "microbit-simple-tutorial": "github:tntcomputing/microbit-simple-tutorial"
+    },
+    "files": [
+        "md",
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.22",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
